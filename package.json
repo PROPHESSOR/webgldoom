@@ -1,0 +1,23 @@
+{
+  "name": "webgldoom",
+  "version": "1.0.0",
+  "description": "A Doom wad/level renderer in progress.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PROPHESSOR/webgldoom.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PROPHESSOR/webgldoom/issues"
+  },
+  "window":{
+    "width":1024,
+    "height":768
+  },
+  "homepage": "https://github.com/PROPHESSOR/webgldoom#readme"
+}
